@@ -1,0 +1,12 @@
+.book{
+    /* background-image: url(../images/passport-2714675_1280.jpg); */
+    background-image: url(../images/185289.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.logo{
+    width:70px;
+    height:180px;
+    border-radius: 50%;
+}

@@ -1,0 +1,20 @@
+.logo{
+    width:70px;
+    height:180px;
+    border-radius: 50%;
+}
+
+.destination{
+    background-image: url(../images/pexels-pierre-blache-651604-3105066.jpg);
+    /* background-image: url(../images/passport-2714675_1280.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.display-4 ,.lead{
+    color:rgb(255, 55, 0);
+} 
+
+.jumbotron{
+    background-color: rgb(214, 238, 230);
+}

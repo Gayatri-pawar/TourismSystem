@@ -1,0 +1,28 @@
+.feedback{
+    background-image: url(../images/OIP\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height:100vh; */
+}
+.Packages{
+    background-image: url(../images/185289.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: #bee800; */
+     
+}
+.card{
+    background-color: #bee800;
+}
+.card-img-top {
+    height: 200px;
+}
+.package_button{
+    background: linear-gradient(55deg, #bee800, #f70291f1);
+    border-radius: 30px;
+}
+.logo{
+    width:70px;
+    height:180px;
+    border-radius: 50%;
+}

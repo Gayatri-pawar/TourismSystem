@@ -1,0 +1,64 @@
+@charset "UTF-8";
+.logo{
+    width:70px;
+    height:180px;
+    border-radius: 50%;
+}
+.body{
+  
+    background-position: fixed;
+    background-size: cover;
+
+}
+.background{
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+    padding: 86px;
+}
+.video_background{
+    position: absolute;
+    width:320px;
+    height: 800px;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.admin_card{
+  
+    background: linear-gradient(45deg, #ff7e5f, #feb47b);
+    background: linear-gradient(45deg, #7f00ff, #e100ff);
+
+}
+.card_second{
+    background-color: #fdffcd; 
+    
+}
+.bg{
+   
+    background-image: url(../images/185289.webp);
+}
+.one{
+    background-image: url(../images/OIP\ \(3\).jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    
+}
+.Frequently{
+   background-image: url(../images/OIP\ \(3\).jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}  
+@media(min-width : 768px){
+    .video_background{
+        width:750px;
+    }
+}
+@media(min-width: 992px){
+    .video_background{
+        width: 1470px;
+        height:738px;
+    }
+   
+}
+

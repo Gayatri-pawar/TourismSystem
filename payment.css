@@ -1,0 +1,15 @@
+.payment{
+    background-color: #e7f499;
+}
+
+.card {
+    border: 1px solid hsl(172, 100%, 41%);
+    border-radius: 0.25rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+.logo{
+    width:70px;
+    height:180px;
+    border-radius: 50%;
+}
+

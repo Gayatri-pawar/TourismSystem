@@ -1,0 +1,14 @@
+.logo{
+    width:70px;
+    height:180px;
+    border-radius: 50%;
+}
+
+
+
+.wishlist{
+    background-image: url("../images/pexels-maxavans-5090484.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

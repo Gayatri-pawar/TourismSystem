@@ -1,0 +1,30 @@
+
+.package-card {
+    margin-bottom: 30px;
+}
+.package-card img {
+    height: 200px;
+    object-fit: cover;
+}
+.package-card .card-body {
+    display: flex;
+    flex-direction: column;
+}
+.package-card .card-body .btn {
+    margin-top: auto;
+}
+.rating {
+    color: #ffcc00;
+}
+
+.poppackages{
+ background-color: #ffcc00;
+}
+.pp{
+    background-color: rgb(173, 165, 151);
+}
+.logo{
+    width:70px;
+    height:180px;
+    border-radius: 50%;
+}
